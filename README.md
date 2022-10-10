@@ -14,4 +14,4 @@ Horário: **8h às 12h e das 13h ás 17h**
 
 **🎉 Vem pra Etec!!! 🎉**
 
-<img src="https://media.discordapp.net/attachments/1027959637422657597/1027959769971052574/arte_fetec.jpeg?width=676&height=676" alt="sobre a fetec" width="50%" align="right">
+<img src="https://media.discordapp.net/attachments/1027959637422657597/1027959769971052574/arte_fetec.jpeg?width=676&height=676" alt="sobre a fetec" width="50%" align="center">
